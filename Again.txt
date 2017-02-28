@@ -8,4 +8,4 @@ git pull origin master£¨£ºlocal ¿ÉÊ¡ÂÔ£©  È¡originµÄmaster·ÖÖ§£¬Óë±¾µØµÄlocal·ÖÖ
 
 git fetch origin master£¨´ÓÔ¶³ÌµÄorigin²Ö¿âµÄmaster·ÖÖ§»ñÈ¡×îĞÂ°æ±¾µ½±¾µØ£©
 
-git clone xxx£¬git branch -a£¬git remote add ĞÂ½¨±¾µØ·ÖÖ§Ãû xxx£¬ĞŞ¸ÄÎÄ¼ş£¬git commit -m "v01"£¬git push origin ±¾µØ·ÖÖ§Ãû Ô¶³Ì·ÖÖ§Ãû¡£
+git clone xxx£¬git branch -a£¬git remote add ĞÂ½¨±¾µØ·ÖÖ§Ãû xxx£¬ĞŞ¸ÄÎÄ¼ş£¬git commit -m "v01"£¬git push origin ±¾µØ·ÖÖ§Ãû Ô¶³Ì·ÖÖ§Ãû£¨git push ±¾µØ·ÖÖ§Ãû£©¡£
