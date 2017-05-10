@@ -1,0 +1,7 @@
+第一步，删除分支
+
+git branch -r -d origin/BranchName
+
+第二步，推送空分支
+
+git push origin :BranchName
