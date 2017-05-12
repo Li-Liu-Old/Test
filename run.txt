@@ -6,4 +6,4 @@
 
 4,git push origin BranchName
 
-5,Run! 
+5,done 
