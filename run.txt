@@ -4,8 +4,3 @@
 3,git commit -am "commit all"
 
 4,git push origin BranchName
-<<<<<<< HEAD
-=======
-
-5,done 
->>>>>>> 3fd74c6ad70f13ff3bd5d5e6301294d06240950e
