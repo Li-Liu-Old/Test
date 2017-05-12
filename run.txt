@@ -1,5 +1,9 @@
-1,git commit -am "commit all"
+1,edit folder
 
-2,git push origin BranchName
+2,git add .
 
-3,Run! 
+3,git commit -am "commit all"
+
+4,git push origin BranchName
+
+5,Run! 
