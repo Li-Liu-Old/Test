@@ -1,6 +1,9 @@
+1，
 
 2,git add .
 
 3,git commit -am "commit all"
 
 4,git push origin BranchName
+
+5，done
