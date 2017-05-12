@@ -1,8 +1,5 @@
-<<<<<<< HEAD:run.txt
+﻿
 ﻿1,save file
-=======
-1,save file
->>>>>>> 8b2c443959006ecb15901c31d8d94552624fa2ef:Escape in the fire.txt
 
 2,git add .
 
@@ -10,8 +7,4 @@
 
 4,git push origin BranchName
 
-<<<<<<< HEAD:run.txt
 5，ESCAPE！！！！
-=======
-5，ESCAPE
->>>>>>> 8b2c443959006ecb15901c31d8d94552624fa2ef:Escape in the fire.txt
