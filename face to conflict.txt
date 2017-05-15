@@ -1,16 +1,6 @@
-1��git stash-����
+先git pull一下
 
-git stash list-�鿴stash list
+这样远程的file会和你本地的修改合并，冲突文件冲突的地方会有提示
 
-git stash clear-clear
-
-
-2��Delete conflict file
-
-git add -A
-
-git commit -am ""
-
-git pull
-
-edit again
+需要把代码合并好后，重新走一遍代码提交流程就好了：git add .; git commit -m ''; git push
+这样远程就是你修改的内容了
