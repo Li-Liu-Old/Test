@@ -4,3 +4,5 @@
 取得远程repo的新版本，然后自动merge本地的内容
 
 2，git push origin master
+
+（rebase慎用）
