@@ -1,6 +1,1 @@
-﻿先git pull
-
-这样远程的file会和你本地的修改合并，冲突文件冲突的地方会有提示
-
-需要把代码合并好后，重新走一遍代码提交流程就好了：git add .; git commit -m ''; git push
-这样远程就是你修改的内容了
+﻿git pull --rebase origin BranchName
