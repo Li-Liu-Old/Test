@@ -1,3 +1,6 @@
-﻿git pull --rebase origin BranchName
+﻿假设其他人先push，
 
-再试一次，做此修改
+则1，git pull --rebase origin BranchName
+取得远程repo的新版本，然后自动merge本地的内容
+
+2，git push origin master
