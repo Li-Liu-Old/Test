@@ -1,5 +1,4 @@
-﻿
-﻿1,save file
+1,save file
 
 2,git add .
 
