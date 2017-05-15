@@ -1,8 +1,8 @@
 1,save file
 
-2,git add .
+2,git add -A
 
-3,git commit -am "commit all"
+3,git commit -m "commit all"
 
 4,git push origin BranchName
 
