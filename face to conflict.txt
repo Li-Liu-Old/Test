@@ -5,4 +5,4 @@
 
 2，git push origin master
 
-（rebase慎用）
+（rebase搞清楚）
